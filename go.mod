@@ -13,7 +13,7 @@ require (
 	github.com/ilyakaznacheev/cleanenv v1.2.6
 	github.com/jackc/pgx/v4 v4.17.1
 	github.com/prometheus/client_golang v1.11.0
-	github.com/rs/zerolog v1.28.0
+	github.com/rs/zerolog v1.29.0
 	github.com/streadway/amqp v1.0.0
 	github.com/stretchr/testify v1.8.0
 	github.com/swaggo/files v0.0.0-20210815190702-a29dd2bc99b2
